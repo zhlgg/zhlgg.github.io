@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "deploy": "bash deploy.sh"
+    },
+    "devDependencies": {
+        "vuepress": "^1.9.10"
+    }
+}
